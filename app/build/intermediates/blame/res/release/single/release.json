@@ -1,0 +1,254 @@
+[
+    {
+        "merged": "C:\\Users\\USER\\Desktop\\myapplication\\app\\build\\intermediates\\res\\merged\\release\\drawable-v24_roundsquare_button.xml.flat",
+        "source": "C:\\Users\\USER\\Desktop\\myapplication\\app\\src\\main\\res\\drawable-v24\\roundsquare_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Desktop\\myapplication\\app\\build\\intermediates\\res\\merged\\release\\drawable-v24_start_button.xml.flat",
+        "source": "C:\\Users\\USER\\Desktop\\myapplication\\app\\src\\main\\res\\drawable-v24\\start_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Desktop\\myapplication\\app\\build\\intermediates\\res\\merged\\release\\drawable-v24_aapp_ikon.png.flat",
+        "source": "C:\\Users\\USER\\Desktop\\myapplication\\app\\src\\main\\res\\drawable-v24\\aapp_ikon.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Desktop\\myapplication\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_start.xml.flat",
+        "source": "C:\\Users\\USER\\Desktop\\myapplication\\app\\src\\main\\res\\layout\\activity_start.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Desktop\\myapplication\\app\\build\\intermediates\\res\\merged\\release\\font_font_family.xml.flat",
+        "source": "C:\\Users\\USER\\Desktop\\myapplication\\app\\src\\main\\res\\font\\font_family.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Desktop\\myapplication\\app\\build\\intermediates\\res\\merged\\release\\drawable-v24_switch_track_selector.xml.flat",
+        "source": "C:\\Users\\USER\\Desktop\\myapplication\\app\\src\\main\\res\\drawable-v24\\switch_track_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Desktop\\myapplication\\app\\build\\intermediates\\res\\merged\\release\\drawable-v24_user_gray.png.flat",
+        "source": "C:\\Users\\USER\\Desktop\\myapplication\\app\\src\\main\\res\\drawable-v24\\user_gray.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Desktop\\myapplication\\app\\build\\intermediates\\res\\merged\\release\\font_nanumsquareroundeb.ttf.flat",
+        "source": "C:\\Users\\USER\\Desktop\\myapplication\\app\\src\\main\\res\\font\\nanumsquareroundeb.ttf"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Desktop\\myapplication\\app\\build\\intermediates\\res\\merged\\release\\drawable-v24_button_location.xml.flat",
+        "source": "C:\\Users\\USER\\Desktop\\myapplication\\app\\src\\main\\res\\drawable-v24\\button_location.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Desktop\\myapplication\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_map_page.xml.flat",
+        "source": "C:\\Users\\USER\\Desktop\\myapplication\\app\\src\\main\\res\\layout\\activity_map_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Desktop\\myapplication\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\USER\\Desktop\\myapplication\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Desktop\\myapplication\\app\\build\\intermediates\\res\\merged\\release\\drawable-v24_switch_track_on.xml.flat",
+        "source": "C:\\Users\\USER\\Desktop\\myapplication\\app\\src\\main\\res\\drawable-v24\\switch_track_on.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Desktop\\myapplication\\app\\build\\intermediates\\res\\merged\\release\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\USER\\Desktop\\myapplication\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Desktop\\myapplication\\app\\build\\intermediates\\res\\merged\\release\\drawable-v24_pocketpolice_arriving2_confirm.png.flat",
+        "source": "C:\\Users\\USER\\Desktop\\myapplication\\app\\src\\main\\res\\drawable-v24\\pocketpolice_arriving2_confirm.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Desktop\\myapplication\\app\\build\\intermediates\\res\\merged\\release\\drawable-v24_pocketpolice_icon.png.flat",
+        "source": "C:\\Users\\USER\\Desktop\\myapplication\\app\\src\\main\\res\\drawable-v24\\pocketpolice_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Desktop\\myapplication\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\USER\\Desktop\\myapplication\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Desktop\\myapplication\\app\\build\\intermediates\\res\\merged\\release\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\USER\\Desktop\\myapplication\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Desktop\\myapplication\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_arriving_miss.xml.flat",
+        "source": "C:\\Users\\USER\\Desktop\\myapplication\\app\\src\\main\\res\\layout\\activity_arriving_miss.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Desktop\\myapplication\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_bookmark_dtn.xml.flat",
+        "source": "C:\\Users\\USER\\Desktop\\myapplication\\app\\src\\main\\res\\layout\\activity_bookmark_dtn.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Desktop\\myapplication\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_arriving_complete.xml.flat",
+        "source": "C:\\Users\\USER\\Desktop\\myapplication\\app\\src\\main\\res\\layout\\activity_arriving_complete.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Desktop\\myapplication\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_notice1.xml.flat",
+        "source": "C:\\Users\\USER\\Desktop\\myapplication\\app\\src\\main\\res\\layout\\activity_notice1.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Desktop\\myapplication\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\USER\\Desktop\\myapplication\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Desktop\\myapplication\\app\\build\\intermediates\\res\\merged\\release\\drawable-v24_button_sos.xml.flat",
+        "source": "C:\\Users\\USER\\Desktop\\myapplication\\app\\src\\main\\res\\drawable-v24\\button_sos.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Desktop\\myapplication\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\USER\\Desktop\\myapplication\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Desktop\\myapplication\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_bookmark_num.xml.flat",
+        "source": "C:\\Users\\USER\\Desktop\\myapplication\\app\\src\\main\\res\\layout\\activity_bookmark_num.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Desktop\\myapplication\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_setting.xml.flat",
+        "source": "C:\\Users\\USER\\Desktop\\myapplication\\app\\src\\main\\res\\layout\\activity_setting.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Desktop\\myapplication\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_home.xml.flat",
+        "source": "C:\\Users\\USER\\Desktop\\myapplication\\app\\src\\main\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Desktop\\myapplication\\app\\build\\intermediates\\res\\merged\\release\\drawable-v24_pocketpolice_arriving2_sendmessage.png.flat",
+        "source": "C:\\Users\\USER\\Desktop\\myapplication\\app\\src\\main\\res\\drawable-v24\\pocketpolice_arriving2_sendmessage.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Desktop\\myapplication\\app\\build\\intermediates\\res\\merged\\release\\drawable-v24_pocketpolice_arriving_check.png.flat",
+        "source": "C:\\Users\\USER\\Desktop\\myapplication\\app\\src\\main\\res\\drawable-v24\\pocketpolice_arriving_check.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Desktop\\myapplication\\app\\build\\intermediates\\res\\merged\\release\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\USER\\Desktop\\myapplication\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Desktop\\myapplication\\app\\build\\intermediates\\res\\merged\\release\\drawable-v24_home_gray_square.xml.flat",
+        "source": "C:\\Users\\USER\\Desktop\\myapplication\\app\\src\\main\\res\\drawable-v24\\home_gray_square.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Desktop\\myapplication\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\USER\\Desktop\\myapplication\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Desktop\\myapplication\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\USER\\Desktop\\myapplication\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Desktop\\myapplication\\app\\build\\intermediates\\res\\merged\\release\\drawable-v24_roundbtn.xml.flat",
+        "source": "C:\\Users\\USER\\Desktop\\myapplication\\app\\src\\main\\res\\drawable-v24\\roundbtn.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Desktop\\myapplication\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\USER\\Desktop\\myapplication\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Desktop\\myapplication\\app\\build\\intermediates\\res\\merged\\release\\drawable-v24_strokebtn.xml.flat",
+        "source": "C:\\Users\\USER\\Desktop\\myapplication\\app\\src\\main\\res\\drawable-v24\\strokebtn.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Desktop\\myapplication\\app\\build\\intermediates\\res\\merged\\release\\drawable-v24_switch_track_off.xml.flat",
+        "source": "C:\\Users\\USER\\Desktop\\myapplication\\app\\src\\main\\res\\drawable-v24\\switch_track_off.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Desktop\\myapplication\\app\\build\\intermediates\\res\\merged\\release\\drawable-v24_list_square.xml.flat",
+        "source": "C:\\Users\\USER\\Desktop\\myapplication\\app\\src\\main\\res\\drawable-v24\\list_square.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Desktop\\myapplication\\app\\build\\intermediates\\res\\merged\\release\\drawable-v24_pocketpolice.png.flat",
+        "source": "C:\\Users\\USER\\Desktop\\myapplication\\app\\src\\main\\res\\drawable-v24\\pocketpolice.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Desktop\\myapplication\\app\\build\\intermediates\\res\\merged\\release\\drawable-v24_button_notice.xml.flat",
+        "source": "C:\\Users\\USER\\Desktop\\myapplication\\app\\src\\main\\res\\drawable-v24\\button_notice.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Desktop\\myapplication\\app\\build\\intermediates\\res\\merged\\release\\drawable-v24_pocketpolice_arriving3_confirm.png.flat",
+        "source": "C:\\Users\\USER\\Desktop\\myapplication\\app\\src\\main\\res\\drawable-v24\\pocketpolice_arriving3_confirm.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Desktop\\myapplication\\app\\build\\intermediates\\res\\merged\\release\\font_nanumsquareroundb.ttf.flat",
+        "source": "C:\\Users\\USER\\Desktop\\myapplication\\app\\src\\main\\res\\font\\nanumsquareroundb.ttf"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Desktop\\myapplication\\app\\build\\intermediates\\res\\merged\\release\\font_nanumsquareroundr.ttf.flat",
+        "source": "C:\\Users\\USER\\Desktop\\myapplication\\app\\src\\main\\res\\font\\nanumsquareroundr.ttf"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Desktop\\myapplication\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_config_num.xml.flat",
+        "source": "C:\\Users\\USER\\Desktop\\myapplication\\app\\src\\main\\res\\layout\\activity_config_num.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Desktop\\myapplication\\app\\build\\intermediates\\res\\merged\\release\\drawable-v24_pocketpolice_arriving_chkposition.png.flat",
+        "source": "C:\\Users\\USER\\Desktop\\myapplication\\app\\src\\main\\res\\drawable-v24\\pocketpolice_arriving_chkposition.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Desktop\\myapplication\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_config_dtn.xml.flat",
+        "source": "C:\\Users\\USER\\Desktop\\myapplication\\app\\src\\main\\res\\layout\\activity_config_dtn.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Desktop\\myapplication\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_sos.xml.flat",
+        "source": "C:\\Users\\USER\\Desktop\\myapplication\\app\\src\\main\\res\\layout\\activity_sos.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Desktop\\myapplication\\app\\build\\intermediates\\res\\merged\\release\\drawable-v24_icon.png.flat",
+        "source": "C:\\Users\\USER\\Desktop\\myapplication\\app\\src\\main\\res\\drawable-v24\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Desktop\\myapplication\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_signup.xml.flat",
+        "source": "C:\\Users\\USER\\Desktop\\myapplication\\app\\src\\main\\res\\layout\\activity_signup.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Desktop\\myapplication\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\USER\\Desktop\\myapplication\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Desktop\\myapplication\\app\\build\\intermediates\\res\\merged\\release\\drawable-v24_configuration_button.xml.flat",
+        "source": "C:\\Users\\USER\\Desktop\\myapplication\\app\\src\\main\\res\\drawable-v24\\configuration_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Desktop\\myapplication\\app\\build\\intermediates\\res\\merged\\release\\drawable-v24_pocketpolice_arriving3_chkposition.png.flat",
+        "source": "C:\\Users\\USER\\Desktop\\myapplication\\app\\src\\main\\res\\drawable-v24\\pocketpolice_arriving3_chkposition.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Desktop\\myapplication\\app\\build\\intermediates\\res\\merged\\release\\drawable-v24_button_arrival.xml.flat",
+        "source": "C:\\Users\\USER\\Desktop\\myapplication\\app\\src\\main\\res\\drawable-v24\\button_arrival.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Desktop\\myapplication\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_notice2.xml.flat",
+        "source": "C:\\Users\\USER\\Desktop\\myapplication\\app\\src\\main\\res\\layout\\activity_notice2.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Desktop\\myapplication\\app\\build\\intermediates\\res\\merged\\release\\drawable-v24_home_user.png.flat",
+        "source": "C:\\Users\\USER\\Desktop\\myapplication\\app\\src\\main\\res\\drawable-v24\\home_user.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Desktop\\myapplication\\app\\build\\intermediates\\res\\merged\\release\\drawable-v24_switch_thumb.xml.flat",
+        "source": "C:\\Users\\USER\\Desktop\\myapplication\\app\\src\\main\\res\\drawable-v24\\switch_thumb.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Desktop\\myapplication\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\USER\\Desktop\\myapplication\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Desktop\\myapplication\\app\\build\\intermediates\\res\\merged\\release\\drawable-v24_edge_line.xml.flat",
+        "source": "C:\\Users\\USER\\Desktop\\myapplication\\app\\src\\main\\res\\drawable-v24\\edge_line.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Desktop\\myapplication\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\USER\\Desktop\\myapplication\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Desktop\\myapplication\\app\\build\\intermediates\\res\\merged\\release\\font_nanumsquareroundl.ttf.flat",
+        "source": "C:\\Users\\USER\\Desktop\\myapplication\\app\\src\\main\\res\\font\\nanumsquareroundl.ttf"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Desktop\\myapplication\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\USER\\Desktop\\myapplication\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Desktop\\myapplication\\app\\build\\intermediates\\res\\merged\\release\\drawable-v24_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\USER\\Desktop\\myapplication\\app\\src\\main\\res\\drawable-v24\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Desktop\\myapplication\\app\\build\\intermediates\\res\\merged\\release\\drawable-v24_blue_button.xml.flat",
+        "source": "C:\\Users\\USER\\Desktop\\myapplication\\app\\src\\main\\res\\drawable-v24\\blue_button.xml"
+    }
+]
